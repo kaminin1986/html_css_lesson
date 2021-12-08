@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+
+.fontic {
+    font-size: 50px;
+    color: rgb(252, 250, 250);
+}
+
+.prikol {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: chartreuse;
+}

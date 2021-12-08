@@ -1,0 +1,17 @@
+.zagolovok {
+    font-size: 50px;
+    text-align: center;
+}
+
+.style-header {
+    min-width: 30px;
+    text-align: center;
+    height: 186px;
+    margin-bottom: 150px;
+    background-image: url("../img/oboi.jpg");
+    background-size: cover;
+    color: #030000;
+}
+
+
+  
