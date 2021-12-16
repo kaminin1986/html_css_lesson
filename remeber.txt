@@ -1,0 +1,32 @@
+https://pro-prof.com/
+
+команды по html
+
+h1 - заголовок
+p - текст
+div - контейнер
+class - классификация объекта для дальнейшего редактирования в css
+main -
+article -
+href - вставить ссылку 
+a href -
+aside -
+span -
+::after -
+
+команды по css
+display: flex -блок отображается на одном уровне
+
+ width: 100%; ширина
+ height: 80px; высота
+ min-height: 100vh; высота экрана
+ margin-bottom: 10px; отодвинуть блок на 10 пикселей вниз
+ margin-right: 10px; отдвинуть в право
+
+ background: rgb(106, 44, 187); Цвет
+ 
+ display: flex; всегда на одном уровне
+
+формат текста
+color: white; Цвет текста
+font-size: 30px Размер текста
