@@ -41,3 +41,55 @@ body {
     height: 200px;
     background: rgb(0, 0, 0);
 }
+
+.footer-ur {
+    margin-top: 1px;
+    display: flex;
+    height:inherit
+    
+    
+    
+}
+
+.footer-sadebar-a {
+    margin-top: 10px;
+    width: 33.33%;
+    margin-left: 5px;
+    background: rgb(7, 6, 6);
+    margin-bottom: 10px;
+    border: 2px solid red;
+    font-size: 20px;
+
+}
+
+.footer-sad_a-content {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(209, 16, 16);
+
+}
+
+.footer-sad-text {
+    display:grid;
+    
+}
+
+.footer-sadebar-b {
+    margin-top: 10px;
+    width: 33.33%;
+    margin-left: 5px;
+    background: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    border: 2px solid red;
+
+} 
+
+.footer-sadebar-c {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 33.33%;
+    background: rgb(5, 5, 5);
+    margin-bottom: 10px;
+    border: 2px solid red;
+}
