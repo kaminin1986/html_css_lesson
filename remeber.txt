@@ -30,3 +30,9 @@ display: flex -блок отображается на одном уровне
 формат текста
 color: white; Цвет текста
 font-size: 30px Размер текста
+
+logotip-menu{
+    text-transform: uppercase; # Заглавные буквы
+    color:floralwhite;  # Цвет шрифта
+    font-weight: 800; # жирый шрифт
+    font-size: 24px; # увеличить текст
