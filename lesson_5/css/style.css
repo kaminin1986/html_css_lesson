@@ -1,0 +1,72 @@
+*{
+    margin: 0; /*# обнулить стили браузера*/
+    padding: 0; /*# обнулить стили браузера*/
+}
+header {
+   
+    margin-top: 30px; /*#отодвинуть с верху на 50 px*/
+    
+    background: #000; /*#Залить header в черный цвет*/
+    padding: 5px;
+}
+
+nav {
+   margin-top: 15px; /*#отодвинуть с верху на 20 px*/
+   margin-bottom: 15px; 
+/*    display: flex; /*#выстроить на один уровень*/
+}
+
+.dws-menu{
+    display: flex;
+}
+
+.logotip-menu{
+    text-transform: uppercase; /*буквы в верхнем регистре*/
+    color:floralwhite; /* Цвет шрифта*/
+    font-weight: 800;  /* Жирный текст*/
+    font-size: 24px;  /* увеличит текст до 24px*/
+    cursor: pointer; /* при навидении появляется ссылочный курсор*/
+    margin-left: 5%; /*Отступ с лева на 10% */
+}
+
+.ul-dws-menu{
+    margin-top: 7px;
+    display: flex;  /*# выстроить на один уровень */
+   /* margin-left: 30px;  /*#отодвинуть от левого блока на 20%*/
+    margin-left: 10%;  /*#отодвинуть от левого блока на 10%*/
+    color: floralwhite; /*свет текста*/
+    font-size: 15px;  /*размер шривта*/
+}
+
+.ul-dws-menu:hover{
+    /*border-bottom: 3px solid rgb(253, 158, 6);*/
+}
+
+li{
+    list-style: none;  /*#убрать точки перед пунктами меню*/
+    
+}
+
+.fa{
+    
+}
+
+.fa:hover{
+   /* border-bottom: 1px solid rgb(253, 158, 6);/*/
+}
+.fo {
+    text-decoration: none;
+    color: rgb(221, 224, 222);
+}
+
+.fo:hover{
+    border-bottom: 3px solid rgb(253, 158, 6);
+}
+
+i{
+    
+}
+a{
+    color: rgb(209, 28, 28);
+    margin-left: 30px;
+}

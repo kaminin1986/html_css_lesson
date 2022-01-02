@@ -11,6 +11,37 @@ body {
 
 }
 
+.logotip-meny {
+    height: inherit;
+    display: flex;
+    #justify-content: space-between;
+    #justify-content:first-child;
+    align-items: center;
+
+}
+
+.logotip-text {
+    
+
+}
+
+.meny-shapka {
+    color: white;
+    font-size: 15px;
+    display: flex;
+    
+}
+
+.meny-shapka-bar {
+    display: flex;
+    margin-left: 15px;
+    
+}
+
+a {
+    padding: 1em;
+}
+
 .container {
     display: flex;
     min-height: 100vh;
